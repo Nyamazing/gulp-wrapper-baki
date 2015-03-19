@@ -1,6 +1,6 @@
 {
   "name": "gulp-wrapper-baki",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "command line wrapper for gulp",
   "keywords": [
     "gulp"

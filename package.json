@@ -1,24 +1,30 @@
 {
   "name": "gulp-wrapper-baki",
-  "description": "command line wrapper for gulp",
   "version": "0.0.1",
+  "description": "command line wrapper for gulp",
+  "keywords": [
+    "gulp"
+  ],
+  "homepage": "https://github.com/Nyamazing/gulp-wrapper-baki",
+  "bugs": {
+    "url": "https://github.com/Nyamazing/gulp-wrapper-baki/issues"
+  },
+  "license": "MIT",
+  "author": "Nyamazing!",
+  "files": [
+    "bin"
+  ],
   "bin": {
     "baki": "./bin/baki.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nyamazing/gulp-wrapper-baki"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-  },
-  "author": "",
-  "license": "MIT",
   "dependencies": {
     "npm-which": "^2.0.0"
-  },
-  "readme": "ERROR: No README data found!",
-  "_id": "gulp-wrapper-baki@0.0.1",
-  "_shasum": "f23db8642ed819fbead268f7af45a1a3eae5cf6a",
-  "_from": "../gulp-wrapper-baki",
-  "_resolved": "file:../gulp-wrapper-baki"
+  }
 }

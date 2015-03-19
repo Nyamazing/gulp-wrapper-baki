@@ -1,6 +1,6 @@
 {
   "name": "gulp-wrapper-baki",
-  "version": "0.1.0",
+  "version": "0.1.0-1",
   "description": "command line wrapper for gulp",
   "keywords": [
     "gulp"
@@ -12,7 +12,9 @@
   "license": "MIT",
   "author": "Nyamazing!",
   "files": [
-    "bin"
+    "bin",
+    "README.md",
+    "LICENSE"
   ],
   "bin": {
     "baki": "./bin/baki.js"
